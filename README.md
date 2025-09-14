@@ -45,7 +45,8 @@
 ## อัลกอริทึมที่มีในโปรเจค (14 sep 2025)
 - Bubble Sort  
 - Selection Sort  
-- Insertion Sort  
+- Insertion Sort
+- Shell Sort
 - Heap Sort
 - Merge Sort  
 - Quick Sort  
